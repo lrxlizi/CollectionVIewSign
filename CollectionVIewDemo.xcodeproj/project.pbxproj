@@ -543,7 +543,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = SEWBU2EJ25;
-				GCC_PREFIX_HEADER = "/Users/lizi/Desktop/例子/eg/CollectionVIewDemo/CollectionVIewDemoUITests/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/CollectionVIewDemoUITests/PrefixHeader.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/CollectionVIewDemo/Other/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -560,7 +560,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = SEWBU2EJ25;
-				GCC_PREFIX_HEADER = "/Users/lizi/Desktop/例子/eg/CollectionVIewDemo/CollectionVIewDemoUITests/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/CollectionVIewDemoUITests/PrefixHeader.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/CollectionVIewDemo/Other/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
